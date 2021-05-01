@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.reef{
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.title{
+  padding: 20px;
+}
+
+.box{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.boxes{
+  margin: 0 auto;
+  width: 840px;
+  line-height: 1.6;
+  border-bottom:1px solid;
+  padding-bottom: 30px;
+}
